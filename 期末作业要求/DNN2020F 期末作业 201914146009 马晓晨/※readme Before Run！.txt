@@ -1,0 +1,7 @@
+①请在有train_32x32.mat以及test_32x32.mat文件在同一目录下时
+首先运行pretreatment.mat整理数据集合测试集，并生成对应train_1024.mat和test_1024.mat文件
+
+②然后运行trainmodle.m即可，默认先加载model进行训练，
+没有model则以随机数生成权值矩阵，需手动输入要训练的次数
+
+感谢助教老师！祝您学业顺利，生活愉快！
